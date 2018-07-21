@@ -1,0 +1,6 @@
+matplotlib
+pandas
+seaborn
+ansi2html
+git+git://github.com/andreasvc/pyre2#egg=re2
+git+git://github.com/andreasvc/disco-dop#egg=disco-dop
