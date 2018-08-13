@@ -1,7 +1,7 @@
 # Cliche expressions in literary and genre novels
 
-Code for the paper "Cliche expressions in literary and genre novels",
-to be presented at the Latech-CLfL 2018 workshop.
+Code for the paper "[Cliche expressions in literary and genre novels](http://aclweb.org/anthology/W18-4504)",
+presented at the Latech-CLfL 2018 workshop.
 
 This repository is intended for documentation purposes, as the relevant data
 cannot be made publicly available.
@@ -29,3 +29,16 @@ of n-gram counts from the SONAR part of Lassy Large using Colibri-Core. Run
 them from the Lassy Large `Data` directory.
 
 The rest of the analysis is done in the notebook.
+
+## Reference
+
+```latex
+@InProceedings{vancranenburgh2018cliche,
+    author={van Cranenburgh, Andreas},
+    title={Cliche Expressions in Literary and Genre Novels},
+    year={2018},
+    booktitle={Proceedings of LaTeCH-CLfL workshop},
+    pages={34--43},
+    url={http://www.aclweb.org/anthology/W18-4504}
+}
+```
